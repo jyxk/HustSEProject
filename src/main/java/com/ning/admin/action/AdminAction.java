@@ -1,3 +1,11 @@
+/*
+ * @Author: Xiuxu Jin(jyxk)
+ * @Date: 2019-10-31 23:09:13
+ * @LastEditors: Xiuxu Jin
+ * @LastEditTime: 2019-10-31 23:09:14
+ * @Description: file content
+ * @Email: jyxking007@gmail.com
+ */
 package com.ning.admin.action;
 
 import com.ning.admin.service.AdminService;
@@ -13,6 +21,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletResponse;
